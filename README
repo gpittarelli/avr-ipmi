@@ -1,0 +1,10 @@
+AVR IPMI
+
+A simple firmware designed for small Arduinos (eg the Mini) to be
+embedded in a cheap server and serve a simple HTTP interface over an
+attached ethernet port to remotely control the host server (power
+on/off, possibly serial console).
+
+Currently a major work in progress. It is still a prototype, if you're
+reading this now then expect to read and modify the source code if you
+want to use it.
